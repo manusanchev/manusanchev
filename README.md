@@ -1,4 +1,4 @@
-### Welcome to my github profile 👋 [![Visits Badge](https://badges.pufler.dev/visits/manusanchev/manusanchev)](https://badges.pufler.dev)
+### Welcome to my github profile 👋
 
 
 ## What do i do?
