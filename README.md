@@ -8,5 +8,4 @@
   
 ## Where can i see your work?
 
-  check out my [personal website](https://manusanchev.net) for projects i build! 
-  
+ look at my [personal website](https://manusanchev.net) to see the projects I build!
